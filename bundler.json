@@ -1,0 +1,7 @@
+{
+  "app_name": "LGTM",
+  "icon_path_darwin": "ui/public/icon.icns",
+  "icon_path_linux": "ui/public/icon.png",
+  "icon_path_windows": "ui/public/icon.ico",
+  "output_path": "output"
+}
